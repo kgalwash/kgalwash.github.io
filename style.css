@@ -1,0 +1,22 @@
+
+button{color: green;
+
+}
+.bg-image{
+	background-size:cover;
+	padding-top:200px;
+	padding-bottom:200px;
+	background-image: url(http://citycollegenottingham.com/wp-content/uploads/2012/12/Nottingham-Council-House.jpg);
+}
+
+.bg-image2{
+	background-size:cover;
+	padding-top:200px;
+	padding-bottom:200px;
+	background-image: url(http://www.clker.com/cliparts/L/a/y/i/j/P/double-deck-bus.svg);
+}
+
+body{ color: blue;
+font-size: 16px;
+font-style: italic;
+ }
